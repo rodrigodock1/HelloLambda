@@ -1,5 +1,5 @@
 exports.handler = async (event) => {
-    // TODO implement
+    // TODO implement for testings 1
     const response = {
         statusCode: 200,
         body: JSON.stringify('Hello from Git Oauth!'),
